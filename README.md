@@ -20,8 +20,6 @@ A web dashboard provides the user interface for viewing and interacting with the
 - Relay-based control for four loads.
 - Web dashboard for monitoring and load-control interaction.
 
-*Verify that each feature is working end-to-end in your current deployment before presenting it as a fully tested feature.*
-
 ## Hardware Components
 
 - ESP32 development board
